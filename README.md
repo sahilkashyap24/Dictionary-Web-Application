@@ -1,46 +1,60 @@
-# random password generator
-🔐✨ Random Password Generator
 
-A fast, secure, and customizable Random Password Generator that helps you create strong passwords in just one click 🚀
-Say goodbye to weak passwords and hello to better security 🔒
+📖 Dictionary Web Application
 
-🌟 Features
+A modern and user-friendly Dictionary Web App that allows users to search words instantly, view meanings, phonetics, parts of speech, and improve vocabulary in a smooth and interactive way. 🚀
 
-🧩 Adjustable Password Length
-🔠 Uppercase Letters (A–Z)
-🔡 Lowercase Letters (a–z)
-🔢 Numbers (0–9)
-🔣 Special Characters (!@#$%^&*)
-⚡ Instant password generation
-🎯 Simple & clean UI
+✨ Features
 
-🛡️ Why This Project?
+🔍 Instant Word Search
+🧠 Accurate Meanings & Definitions
+🔊 Phonetic Pronunciation Support
+📚 Parts of Speech Display
+⚡ Fast & Responsive UI
+🌐 API-powered real-time results
 
-In today’s digital world 🌍, security matters more than ever.
-This tool helps you:
+🛠️ Tech Stack
 
-🔒 Create highly secure passwords
-🚫 Avoid common & weak combinations
-🔁 Prevent password reuse
-💼 Protect personal & professional accounts
+🌐 HTML5
 
-🧠 How It Works
+🎨 CSS3
 
-1️⃣ Select password length
-2️⃣ Choose character types
-3️⃣ Click Generate Password
-4️⃣ Boom! 💥 Your secure password is ready
+⚙️ JavaScript (ES6+)
 
-🧰 Tech Stack
+🔗 Dictionary API
 
-🌐 HTML – Structure
-🎨 CSS – Styling
-⚙️ JavaScript – Logic & randomness📁 Project Structure
-📦 random-password-generator
+📸 Preview
+
+🚀 How It Works
+
+1️⃣ Enter a word in the search box
+2️⃣ Click Search or press Enter
+3️⃣ Get the meaning, pronunciation & usage instantly
+
+📂 Project Structure
+📁 Dictionary-App
  ┣ 📄 index.html
- ┣ 🎨 style.css
- ┗ ⚙️ script.js
+ ┣ 📄 style.css
+ ┣ 📄 script.js
+ ┗ 📄 README.md
 
-🌙 Dark mode
-📊 Password strength meter
-📱 Mobile responsiveness
+💡 Future Enhancements
+
+🌙 Dark Mode
+📌 Bookmark Favorite Words
+🗣️ Audio Pronunciation
+📖 Word History & Suggestions
+
+🧑‍💻 Author
+
+Sahil Kashyap
+🚀 Passionate Web Developer
+💻 Learning • Building • Growing
+
+⭐ Support
+
+If you like this project, give it a star ⭐ and share it with others!
+Your support motivates continuous improvement 💙
+
+📜 License
+
+This project is open-source and free to use for learning and development.
